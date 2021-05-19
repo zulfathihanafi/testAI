@@ -1,8 +1,4 @@
-# Java-Google-Speech-Recognizer
-
-Java Speech Recognition based on Google Cloud Services .
-
-**[Java Google Speech Api library](https://github.com/goxr3plus/java-google-speech-api)** was used for this tutorial
+Hi, I am using codes from GORX3Plus codes as references for this implementation of voice recognition and movie search
 
 #### Tutorials
 
@@ -12,12 +8,3 @@ Java Speech Recognition based on Google Cloud Services .
 
 > Next Tutorial -> https://github.com/goxr3plus/Java-Google-Text-To-Speech
 
-## --Maven Build--
-
-### Maven Clean Package [ With Javadocs produced ]
-
-```mvn clean package``` 
-
-### Maven Clean Package [ No Javadocs produced ]
-
-```mvn -Dmaven.javadoc.skip=true clean package``` 
